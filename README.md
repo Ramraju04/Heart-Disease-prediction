@@ -3,7 +3,7 @@
 A machine learning project that predicts the likelihood of heart disease in patients based on various medical attributes. The project includes data analysis, model training, and a web-based interface for real-time predictions.
 
 ## 🔗 Live Demo
-**[Try the Heart Disease Predictor](https://heart-disease-prediction-9k9o.onrender.com/)**
+**[Try the Heart Disease Predictor](https://heart-disease-prediction-jwi0.onrender.com/)**
 
 ## 📊 Dataset Information
 
@@ -79,7 +79,7 @@ The dataset is sourced from the [Heart Disease Dataset on Kaggle](https://www.ka
 ## 🖥️ Usage
 
 ### Online Usage
-Simply visit the [live application](https://heart-disease-prediction-9k9o.onrender.com/) and input the required medical parameters to get an instant heart disease risk prediction.
+Simply visit the [live application](https://heart-disease-prediction-jwi0.onrender.com/) and input the required medical parameters to get an instant heart disease risk prediction.
 
 ### Local Setup
 
@@ -134,8 +134,3 @@ This application is for **educational and research purposes only**. It should **
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-
-**Made with ❤️ for healthcare innovation**
-
-*If you found this project helpful, please consider giving it a ⭐ on GitHub!*
